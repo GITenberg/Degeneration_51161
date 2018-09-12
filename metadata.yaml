@@ -1,6 +1,9 @@
 _repo: Degeneration_51161
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Entartung. English
+covers:
+- cover_type: archival
+  image_path: 51161-h/images/cover.jpg
 creator:
   author:
     agent_name: Nordau, Max Simon
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1408
     wikipedia: http://en.wikipedia.org/wiki/Max_Nordau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51161#Degeneration
 gutenberg_issued: '2016-02-09'
 gutenberg_type: Text
 identifiers:
