@@ -1,0 +1,31 @@
+_repo: Degeneration_51161
+_version: 0.0.1
+alternative_title: Entartung. English
+creator:
+  author:
+    agent_name: Nordau, Max Simon
+    aliases:
+    - Südfeld, Max Simon
+    - Sudfeld, Max Simon
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '1408'
+    url: http://www.gutenberg.org/2009/agents/1408
+    wikipedia: http://en.wikipedia.org/wiki/Max_Nordau
+description: ''
+gutenberg_issued: '2016-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CB'
+- !lcsh 'Comparative literature'
+- !lcsh 'Degeneration'
+- !lcsh 'Europe -- Intellectual life'
+- GITenberg
+title: Degeneration
+url: http://www.gutenberg.org/ebooks/51161
